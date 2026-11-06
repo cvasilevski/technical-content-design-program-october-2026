@@ -1,31 +1,25 @@
-# Voice and tone: [Your product name]
+# Voice and tone: Insight Timer
 
-> **Guide:** This file defines how your product speaks. It is read by people and by AI tools, so write rules, not aspirations. "Use second person" is a rule. "Be friendly" is not. Replace every `[bracketed]` placeholder. Delete these guide blocks when you no longer need them. Tools strip them out before sending this file to an AI.
-> See the finished version for Luma in ContentLab > Examples.
 
-[Your product name] is [one sentence: what it does and who it is for].
+Insight Timer is a mindfulness app to help busy adults build mental and spiritual wellbeing. We have the largest library of free guided meditation and music tracks on the planet.
 
 ---
 
 ## The voice
 
-The voice is who [Your product name] is, in every context. It stays consistent.
+The voice is who Insight Timer is, in every context. It stays consistent.
 
-> **Guide:** Write 3 to 5 attributes. Use the pattern **Quality, not its extreme.** Then one or two sentences saying what that means in practice and what to avoid. Make each attribute testable: could someone check a string against it?
+**Supportive, but not pushy.** We'll provide recommendations, but we won't tell you what you "must"  or "should" do.
 
-**[Attribute 1], not [its extreme].** [What this means in practice. What to do. What to avoid.]
+**Soothing, but not passive.** We'll talk to you calmly, but we won't downplay important issues.
 
-**[Attribute 2], not [its extreme].** [What this means in practice.]
-
-**[Attribute 3], not [its extreme].** [What this means in practice.]
+**Purposeful, but not overbearing.** We'll help you set goals, but we won't be aggressive about it. 
 
 ### What the voice is not
 
-> **Guide:** Name 3 or 4 things your copy must never sound like. Add a short example of each in quotation marks.
-
-- Not [quality to avoid]: "[example of bad copy]"
-- Not [quality to avoid]: "[example of bad copy]"
-- Not [quality to avoid]: "[example of bad copy]"
+- Not sales-heavy: "Act now and purchase a lifetime membership before time runs out!"
+- Not toxically positive: "Meditating daily can help you clear your anger and maintain a regular sense of happiness and gratitude."
+- Not full of woo: "Using Insight Timer regularly will help align your chakras and encourage abundance."
 
 ---
 
@@ -33,27 +27,25 @@ The voice is who [Your product name] is, in every context. It stays consistent.
 
 The voice stays the same. The tone shifts with what the user is doing and how they feel.
 
-> **Guide:** For each context, write 2 sentences describing the user's state and the tone to use. Then add one good example and one not-example. If your product has contexts that matter more (payments, safety, offline), add a section for them.
-
 ### Onboarding
 
-[Where is the user emotionally? What tone helps them?]
+People might be interested in downloading Insight Timer becuase they're currently feeling stressed and overwhelmed, and are looking for ways to deal with those feelings. Because of that, we want to ask, in a gentle manner, what their goals are for meditation (improved sleep, more mental focus, less anxiety, etc), what kinds of audio resources they might prefer (eg: guided meditation, breathwork, binaural beats, etc), and how much time they're comfortable spending each day. Asking these questions helps build buy-in, after which we'll mention that we offer a paid tier. However, people can still access many resources on the free tier.
 
 **Good:**
-> "[example string]"
+> "How can we help?"
 
 **Not:**
-> "[example string]"
+> "What problems are you experiencing?"
 
 ### Empty states
 
-[Where is the user emotionally? What tone helps them?]
+Our users may be feeling stressed and looking for guidance. We want to promote the benefits of Insight Timer in a calm way, while also giving our users a sense of agency WITHOUT urgency.
 
 **Good:**
-> "[example string]"
+> "Set your intention here"
 
 **Not:**
-> "[example string]"
+> "Tell us what your goal for today is."
 
 ### Errors
 
