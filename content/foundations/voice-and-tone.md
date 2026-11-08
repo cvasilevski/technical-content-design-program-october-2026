@@ -13,6 +13,17 @@ The voice is who Insight Timer is, in every context. It stays consistent. Our go
 
 **Purposeful, but not overbearing.** We'll help people set goals, but we won't be aggressive about it. 
 
+---
+
+## The voice
+
+The voice is who Insight Timer is, in every context. It stays consistent.
+
+**Supportive, but not pushy.** We'll provide recommendations, but we won't tell you what you "must"  or "should" do.
+
+**Soothing, but not passive.** We'll talk to you calmly, but we won't downplay important issues.
+
+**Purposeful, but not overbearing.** We'll help you set goals, but we won't be aggressive about it. 
 
 ### What the voice is not
 
@@ -26,9 +37,11 @@ The voice is who Insight Timer is, in every context. It stays consistent. Our go
 
 Our goal is to help people empower themselves. Whatever the context, we need to focus on how we can help, and whatever next steps the user needs to make in a calm, focused manner.
 
-### Onboarding
+The voice stays the same. The tone shifts with what the user is doing and how they feel.
 
+### Onboarding
 In this stage, users might feel a combination emotions - stress, overwhelm, curosity and hope. We need to focus on the latter (curiosity and hope) to help them understand how we can help them with the former (stress and overwhelm). Because of that, we want to ask, in a gentle manner, what their goals are, what kinds of resources they might prefer, and how much time they're comfortable spending each day. 
+
 
 **Good:**
 > "How can we help?"
@@ -37,13 +50,13 @@ In this stage, users might feel a combination emotions - stress, overwhelm, curo
 > "What problems are you experiencing?"
 
 ### Empty states
-
 Empty states are a chance to start over, and potentially find something better or more helpful along the way. They are always an opportunity to connect and reset.
 
 **Good:**
 > "Set your intention here"
 
 **Not:**
+
 > "Tell us what your goal for today is"
 
 ### Errors
