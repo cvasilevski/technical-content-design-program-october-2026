@@ -73,8 +73,8 @@ busy, student, course, class, enroll, enrollment, schedule
 ### What they need from copy
 
 - Clear instructions about how to format and upload recordings
-- [Need 2]
-- [Need 3]
+- Information about how to share their recordings on other platforms
+- The ability to check in with students and assess progress in courses
 
 ---
 

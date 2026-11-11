@@ -34,7 +34,7 @@ Buttons tell users what will happen when they click.
 - Use sentence case for labels longer than 7 words
 - Keep common words like articles, prepositions and conjunctions in lowercase regardless of length
 - Labels may have multiple grammatical structures: nouns, noun phrases, phrasal verbs, sentence fragments
-- Placeholder text in empty fields should follow the format of "[verb] [field label]" such as "Enter password"
+- Placeholder text in empty fields should provide instructions. Start with a verb and then the field label. For example: "Enter password"
 - Labels may use contextual information pulled from other elements of the page
 
 **Good:**
@@ -116,13 +116,13 @@ Empty states appear when a section has no content yet, or when a search or filte
 
 **Good:**
 > **Do you want to cancel your retreat reservation?**
-> If you cancel this reservation, the host will keep the deposit you paid when you first reserved your spot."
-> `[Cancel my reservation]` `[Keep my reservation]`
+> If you cancel this reservation, the host will keep the deposit you paid when you first reserved your spot.
+> `Cancel my reservation` `Keep my reservation`
 
 **Not:**
 > **Are you sure about cancelling your retreat reservation?**
-> If you cancel this reservation, you will forfeit your deposit."
-> `[Cancel]` `[Go Back]`
+> If you cancel this reservation, you will forfeit your deposit.
+> `Cancel` `Go Back`
 
 ---
 
@@ -133,7 +133,7 @@ Empty states appear when a section has no content yet, or when a search or filte
 - State clearly when a scheduled event is about to start, and include the name of either the course or the teacher
 
 **Good:**
-> "Your meditation course with [name] starts in 30 minutes."
+> "Your meditation course with Serena starts in 30 minutes."
 
 **Not:**
 > "Your meditation course starts soon."
@@ -142,4 +142,4 @@ Empty states appear when a section has no content yet, or when a search or filte
 
 ## Tooltips
 
-**Not applicable
+Not applicable
