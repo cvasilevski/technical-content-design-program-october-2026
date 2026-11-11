@@ -1,4 +1,4 @@
-# AI instructions: [Your product name]
+# AI instructions: Insight Timer
 
 
 ## What this product is
