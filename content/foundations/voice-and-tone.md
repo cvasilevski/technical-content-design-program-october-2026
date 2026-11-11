@@ -74,10 +74,10 @@ When our users encounter errors, we need to tell them how to fix things or start
 One of Insight Timer's key goals is to help people feel a sense of control over their well-being and mental health. Confirmation messages and screens provide a natural avenue to do this in a way that is affirming without being toxically positive.
 
 **Good:**
-> "You've successfuly reserved your spot in the [Topic name] retreat hosted by [Instructor name]. We look forward to seeing you there. "
+> "You've successfuly reserved your spot in the "The Joy of Life" retreat hosted by Selena Lael. We look forward to seeing you there. "
 
 **Not:**
-> "Wonderful! You've successfully reserved your spot in the [Topic name] retreat. You're one step closer to peace of mind."
+> "Wonderful! You've successfully reserved your spot in the "The Joy of Life" retreat. You're one step closer to peace of mind."
 
 ---
 
@@ -85,10 +85,10 @@ One of Insight Timer's key goals is to help people feel a sense of control over 
 
 > **Guide:** Every anti-pattern here can become an eval in Week 4, so make each one specific enough to check. Use the format: **Pattern**: bad example, then good example.
 
-Avoid these in all copy for [Your product name]:
+Avoid these in all copy for Insight Timer:
 
 - **Passive voice**: "This recording has  been removed" becomes "This recording is no longer available"
-- **Title case for individual recordings**: "Breath-focused meditation " becomes "Breath-Focused Meditation]"
-- **Avoidance of contractions**: "In this session, you will learn about..." becomes "In this session, you'll learn about..."
+- **Title case for individual recordings**: "Breath-focused meditation " becomes "Breath-Focused Meditation"
+- **Avoidance of contractions**: "In this session, you will learn about" becomes "In this session, you'll learn about"
 - **Unnecessary sense of urgency**: "You must meditate every day to build a strong mindfulness practice." becomes "Mindfulness becomes easier with practice. The more frequently you try, the better you'll get at it."
 - **Written-out numbers below 10**: "Four-Seven-Eight Breathing" becomes "4-7-8 Breathing"
