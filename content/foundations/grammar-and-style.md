@@ -1,7 +1,7 @@
 # Grammar and style: Insight Timer
 
 
-Apply these rules in UI strings, documentation, and any content written for or about [Your product name].
+Apply these rules in UI strings, documentation, and any content written for or about Insight Timer.
 
 ---
 
